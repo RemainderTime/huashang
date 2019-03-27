@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huashang_basic_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huashang_basic_parent/huashang_basic_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huashang_config_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huashang_eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huashang_zuul_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huasheng_plat_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huasheng_plat_parent/huanshang_plat_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huasheng_plat_parent/huashang_plat_interface" charset="UTF-8" />
+  </component>
+</project>
